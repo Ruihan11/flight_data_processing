@@ -1,17 +1,16 @@
-# ✈️ Flight Data Processing End‑to‑End Pipeline
+## Flight Data Processing End‑to‑End Pipeline
 
 This repository contains a **bash workflow (`run.sh`)** that converts raw
 ADS‑B/flight‑track CSVs into engineered features and merges aircraft‑database
 labels for downstream machine‑learning tasks (e.g. deviance detection).
 
 
----
 ## dataset
 
 Please download the [dataset](https://theairlab.org/trajair/)
   
   
-## ⚡ Quick Start  
+## Quick Start  
 
 ```bash
 # 1) Install uv (skip if already installed)
