@@ -1,0 +1,6 @@
+.venv/
+benchmark_results/
+data/
+outputs/
+__pycache__/
+src/aircraftDatabase.csv

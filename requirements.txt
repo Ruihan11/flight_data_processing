@@ -1,0 +1,8 @@
+# Core scientific stack
+numpy
+pandas
+scikit-learn
+
+# Parallelism
+joblib
+tqdm
